@@ -187,12 +187,12 @@ hr{
      }
      .nav a{
         font-size: 15px;
-        margin-right: 45px;
+        margin-right: 35px;
     }
     body{
         height: 100vh;
         width: 50vw;
-        background-size: 350px;
+        background-size: 200px;
     }
     h2{
         margin-left: 25px;
