@@ -183,7 +183,7 @@ hr{
     }
     .nav-icons{
         position: absolute;
-        right: 65px;
+        right: 30px;
      }
      .nav a{
         font-size: 15px;
@@ -192,7 +192,7 @@ hr{
     body{
         height: 100vh;
         width: 50vw;
-        background-size: 500px;
+        background-size: 350px;
     }
     h2{
         margin-left: 25px;
